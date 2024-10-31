@@ -1,0 +1,65 @@
+{
+  "name": "buyback-front",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start:target": "node /var/www/html/public/server/index.mjs",
+    "build": "nuxt build",
+    "dev": "rm -rf /tmp/nitro && nuxt dev --dotenv .node.env",
+    "serve": "rm -rf /tmp/nitro && nuxt dev --dotenv .node.env",
+    "generate": "nuxt generate --dotenv .node.env",
+    "preview": "nuxt preview --dotenv .node.env",
+    "postinstall": "nuxt prepare --dotenv .node.env",
+    "lint": "run-s lint:all:*",
+    "lint:all:eslint": "yarn lint:eslint --ext .js,.vue,.ts,.jsx,.tsx .",
+    "lint:eslint": "eslint --fix",
+    "lint:prettier": "prettier --write --loglevel warn",
+    "lint:all:prettier": "yarn lint:prettier \"**/*.{ts,js,json,css,scss,vue,html,md}\""
+  },
+  "devDependencies": {
+    "@gtm-support/vue-gtm": "^2.2.0",
+    "@nuxt/devtools": "latest",
+    "@nuxtjs/eslint-module": "^4.1.0",
+    "@nuxtjs/i18n": "^8.0.0-rc.4",
+    "@vue/eslint-config-prettier": "^8.0.0",
+    "@vue/eslint-config-typescript": "^12.0.0",
+    "@vueuse/core": "^10.4.1",
+    "@vueuse/nuxt": "^10.4.1",
+    "eslint": "^8.50.0",
+    "eslint-plugin-import": "^2.28.1",
+    "eslint-plugin-prettier": "^5.0.0",
+    "eslint-plugin-promise": "^6.1.1",
+    "eslint-plugin-vue": "^9.17.0",
+    "nuxt": "^3.7.3",
+    "prettier": "^3.0.3",
+    "sass": "^1.68.0",
+    "typescript": "^5.2.2",
+    "vue-recaptcha-v3": "^2.0.1",
+    "vue-toast-notification": "^3.1.1",
+    "vue-tsc": "^1.8.13"
+  },
+  "dependencies": {
+    "@amplitude/analytics-browser": "^2.4.1",
+    "@pinia-plugin-persistedstate/nuxt": "^1.1.2",
+    "@pinia/nuxt": "^0.4.11",
+    "@vee-validate/nuxt": "^4.11.7",
+    "@vee-validate/yup": "^4.11.7",
+    "@vueuse/components": "^10.4.1",
+    "axios": "^1.5.1",
+    "date-fns": "^2.30.0",
+    "jwt-decode": "^3.1.2",
+    "nuxt-lodash": "^2.5.0",
+    "nuxt-typed-router": "^3.3.1",
+    "pinia": "^2.1.6",
+    "vue-loading-overlay": "^6.0",
+    "yup": "^1.3.2"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "yarn": ">=1.0.0"
+  },
+  "gitHooks": {
+    "pre-commit": "lint-staged",
+    "post-commit": "git update-index --again"
+  }
+}

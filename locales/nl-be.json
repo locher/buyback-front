@@ -1,0 +1,188 @@
+{
+  "errors": {
+    "notFound": "Deze informatie is niet beschikbaar"
+  },
+  "global": {
+    "back": "Terug",
+    "formuleTitle": "Uw formule:",
+    "myDevices": "Mijn apparaat",
+    "ok": "Ok",
+    "your": "Uw"
+  },
+  "actions": {
+    "validate": "Bevestigen",
+    "connect": "Inloggen",
+    "iBegin": "Beginnen",
+    "addDevice": "Apparaat toevoegen",
+    "addOtherDevice": "Nieuw apparaat toevoegen",
+    "checkList": "Lijst raadplegen",
+    "backHome": "Terug naar home",
+    "knowMore": "Meer informatie",
+    "iConfirm": "Bevestigen",
+    "swap": "Uw vervangingeen",
+    "trade": "Vervangen"
+  },
+  "menu": {
+    "home": "Home",
+    "account": "Mijn gegevens",
+    "disconnect": "Uitloggen"
+  },
+  "devices": {
+    "phone": "Smartphone",
+    "tablet": "Tablet",
+    "laptop": "Laptop",
+    "drone": "Drone",
+    "tv": "Televisie",
+    "yourDevice": "Uw {device}"
+  },
+  "login": {
+    "title": "Vernieuw uw apparaten om altijd up-to-date te zijn!",
+    "lostPasswordTitle": "Wachtwoord opnieuw instellen",
+    "resetPasswordTitle": "Wachtwoord opslaan",
+    "accountActivateTitle": "Uw contract activeren",
+    "activateSendSms": {
+      "title": "Uw contract activeren"
+    },
+    "fields": {
+      "email": "Email",
+      "password": "Wachtwoord",
+      "passwordConfirmation": "Wachtwoord bevestigen",
+      "smsCode": "SMS-code"
+    },
+    "errors": {
+      "passwordNotComplex": "Voer een sterk wachtwoord in",
+      "passwordNotTheSame": "De wachtwoorden komen niet overeen",
+      "loginFailed": "Onjuist email of wachtwoord",
+      "smsCode": "Onjuiste code",
+      "email": "Onjuist email"
+    },
+    "connection": {
+      "breadcrumb": "Inloggen",
+      "title": "Log in",
+      "loginAction": "Inloggen",
+      "forgetPassword": "Wachtwoord vergeten?"
+    },
+    "forgetPassword": {
+      "breadcrumb": "Ik ben mijn wachtwoord vergeten",
+      "title": "Wachtwoord opnieuw instellen",
+      "description": "Voer uw e-mailadres in om de resetlink te ontvangen.",
+      "forgetAction": "Link ontvangen",
+      "confirmation": {
+        "title": "E-mail verstuurd!",
+        "descriptionTop": "Wij hebben u een link gestuurd om uw wachtwoord opnieuw in te stellen:",
+        "descriptionBottom": "Als u de e-mail niet hebt ontvangen of als het adres dat u hebt opgegeven niet correct is,",
+        "retry": "probeer nog eens"
+      },
+      "error": {
+        "title": "Dit bent u niet…",
+        "description": "Er is een probleem opgetreden bij het resetten van uw wachtwoord. Probeer het later nog eens."
+      }
+    },
+    "resetPassword": {
+      "title": "Voer uw nieuwe wachtwoord in",
+      "conditions": {
+        "letter": "een letter",
+        "number": "een cijfer",
+        "specialChar": "een speciaal karakter",
+        "length": "12 karakters"
+      },
+      "confirmation": {
+        "title": "Uw wachtwoord is succesvol gewijzigd"
+      },
+      "errors": {
+        "tokenInvalid": "Sorry, deze link is ongeldig of verlopen.",
+        "failed": "Fout bij het wijzigen van het wachtwoord, probeer het opnieuw."
+      }
+    }
+  },
+  "form": {
+    "choose": "Kiezen…"
+  },
+  "buyback": {
+    "registerDeviceTitle": "Een apparaat registreren",
+    "registeredDeviceTitle": "Mijn apparaten",
+    "exchangeUnavailable": "Uw formule staat de vervanging van dit type apparaat niet toe."
+  },
+  "home": {
+    "hello": "Hallo {name}:",
+    "title": "Home",
+    "profileTitle": "Mijn gegevens",
+    "sections": {
+      "buyback": {
+        "initTitle": "Registreer het eerste apparaat te vernieuwen!  STP DONNE MOI MA LA PHRASE EN FR",
+        "waitingTitle": "Binnenkort kunt u naar een hoger niveau! STP DONNE MOI MA LA PHRASE EN FR",
+        "waitingDescription": "Geduld... binnenkort kunt u vernieuwen.",
+        "waitingTimer": "Vernieuwingsaanvraag binnenkort beschikbaar",
+        "remainingDays": "Dagen te gaan",
+        "swapAvailableSoon": "Vernieuwingsaanvraag binnenkort beschikbaar",
+        "swapTitle": "Ga naar het volgende niveau!"
+      }
+    }
+  },
+  "registerDevice": {
+    "errors": {
+      "apiFailed": "Er is een fout opgetreden tijdens de aanvraag. Probeer het opnieuw.",
+      "imeiError": "De IMEI moet tussen de 15 en 17 karakters lang zijn. STP DONNE MOI MA LA PHRASE EN FR"
+    },
+    "list": {
+      "title": "Kies uw apparaat",
+      "breadcrumb": "Kies uw apparaat"
+    },
+    "form": {
+      "choiceBrand": "Wat is het merk van uw{device} ? STP DONNE MOI MA LA PHRASE EN FR",
+      "choiceModel": "Wat is het model van uw apparaat?",
+      "choiceCapacity": "Wat is de opslagcapaciteit?",
+      "choiceImei": "Wat is de IMEI ?",
+      "choiceSerial": "Wat is het serienummer?",
+      "preciseBrand": "Geeft het model aan Geef het model aan",
+      "preciseModel": "Geeft het model aan Geef het model aan",
+      "findImei": "Waar staat de IMEI?",
+      "addBill": "Voeg de aankoopfactuur toe"
+    },
+    "aside": {
+      "brand": "Merk",
+      "model": "Model",
+      "capacity": "Opslagruimte",
+      "imei": "IMEI",
+      "serial": "Serienummer",
+      "bill": "Aankoopfactuur"
+    },
+    "findImei": {
+      "title": "Wat is de IMEI en waar kunt u deze vinden?",
+      "content": "<p>De IMEI-code identificeert uw mobiele telefoon op unieke wijze.<br />Het bestaat uit 15 tot 17 cijfers en is te vinden op de aankoopfactuur van het apparaat of op de originele doos. </p><p>er zijn andere manieren om de IMEI te vinden:<br />Druk op<strong>*#06#</strong>op uw telefoon, dan verschijnt de IMEI-code op het scherm. </p><p>Ga naar de instellingen van uw smartphone als u een iPhone of een Samsung hebt.</p><p> vindt het ook in de batterij van Android-modellen..</p>"
+    },
+    "confirm": {
+      "title": "Aanmelding bevestigd!",
+      "subtitle": "Binnenkort kunt u uw apparaat vernieuwen.",
+      "content": "Kijk op de startpagina om te zien wanneer u uw nieuwe apparaat kunt bestellen. In de tussentijd kunt u al een ander apparaat registreren."
+    }
+  },
+  "myDevices": {
+    "modalDevice": {
+      "title": "Uw {device}",
+      "warning": "Let op! Het is verplicht dat het apparaat dat u wilt vernieuwen werkt.",
+      "swapInProcess": "Er is een lopende aanvraag voor dit apparaat."
+    },
+    "modalSwap": {
+      "error": {
+        "title": "Uw aanvraag is afgewezen",
+        "description": "Er is een fout opgetreden tijdens uw aanvraag. Probeer het opnieuw."
+      }
+    },
+    "modalConfirmation": {
+      "title": "Het zit al in de doos!",
+      "subtitle": "Gefeliciteerd! Uw aanvraag is geregistreerd.",
+      "content": "Een adviseur zal u binnenkort bellen om uit te leggen hoe u uw huidige apparaat kunt opsturen en hoe u het nieuwe apparaat kunt krijgen."
+    }
+  },
+  "account": {
+    "title": "Mijn gegevens",
+    "assistance": {
+      "title": "Klantenservice bellen",
+      "content": "Maandag tot vrijdag van 9u tot 19u. SI VRIJDAG EST INCLUS: Maandag tot en met (ou t/m) vrijdag",
+      "phone": "475242460???"
+    },
+    "activateWithSendSmsCode": "Activeren via SMS",
+    "warning": "Om wijziging of verwijdering van uw persoonsgegevens aan te vragen, kunt u per e-mail contact met ons opnemen of bel onze adviseurs."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "i18n-ally.localesPaths": ["locales"],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "eslint.validate": ["javascript", "typescript", "vue"],
+  "prettier.printWidth": 120,
+  "prettier.bracketSameLine": true,
+  "prettier.htmlWhitespaceSensitivity": "ignore",
+  "i18n-ally.keystyle": "nested"
+}

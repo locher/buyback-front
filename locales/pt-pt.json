@@ -1,0 +1,188 @@
+{
+  "errors": {
+    "notFound": "Este recurso não está disponível"
+  },
+  "global": {
+    "back": "Voltar",
+    "formuleTitle": "A sua oferta:",
+    "myDevices": "Meus dispositivos",
+    "ok": "Ok",
+    "your": "Seu"
+  },
+  "actions": {
+    "validate": "Aceitar",
+    "connect": "Iniciar sessão",
+    "iBegin": "Começar",
+    "addDevice": "Adicionar um dispositivo",
+    "addOtherDevice": "Adicionar um novo dispositivo",
+    "checkList": "Consultar la lista",
+    "backHome": "Voltar ao início",
+    "knowMore": "Saber mais",
+    "iConfirm": "Confirmar",
+    "swap": "Renovar agora",
+    "trade": "Renovar"
+  },
+  "menu": {
+    "home": "Início",
+    "account": "Os meus dados",
+    "disconnect": "Logout"
+  },
+  "devices": {
+    "phone": "Smartphone",
+    "tablet": "Tablet",
+    "laptop": "Computador portátil",
+    "drone": "Drone",
+    "tv": "Televisão",
+    "yourDevice": "Seu {device}"
+  },
+  "login": {
+    "title": "Renove os seus dispositivos para estar sempre na vanguarda!",
+    "lostPasswordTitle": "Repor a sua senha",
+    "resetPasswordTitle": "Guardar a sua senha",
+    "accountActivateTitle": "Ativar o contrato",
+    "activateSendSms": {
+      "title": "Ativar o seu contrato"
+    },
+    "fields": {
+      "email": "Email",
+      "password": "Senha",
+      "passwordConfirmation": "Confirmação de senha",
+      "smsCode": "Código SMS"
+    },
+    "errors": {
+      "passwordNotComplex": "Introduza uma senha complexa",
+      "passwordNotTheSame": "As senhas não coincidem",
+      "loginFailed": "O seu e-mail ou senha é inválido",
+      "smsCode": "O código introduzido é inválido",
+      "email": "O email introduzido é inválido"
+    },
+    "connection": {
+      "breadcrumb": "Iniciar sessão",
+      "title": "Inicie sessão",
+      "loginAction": "Iniciar sessão",
+      "forgetPassword": "Esqueceu a sua senha?"
+    },
+    "forgetPassword": {
+      "breadcrumb": "Esqueci a minha senha",
+      "title": "Repor a senha",
+      "description": "Introduza o seu endereço de correio eletrónico para receber o link de recuperação.",
+      "forgetAction": "Receber o link",
+      "confirmation": {
+        "title": "Email enviado!",
+        "descriptionTop": "Enviámos-lhe um link para redefinir a sua senha para o endereço:",
+        "descriptionBottom": "Se não tiver recebido a mensagem de correio eletrónico ou se o endereço que introduziu não estiver correto,",
+        "retry": "tente de novo"
+      },
+      "error": {
+        "title": "Não é você…",
+        "description": "Houve um problema ao redefinir a sua palavra-passe. Tente novamente mais tarde."
+      }
+    },
+    "resetPassword": {
+      "title": "Introduza a sua nova senha",
+      "conditions": {
+        "letter": "uma letra",
+        "number": "um número",
+        "specialChar": "um carácter especial",
+        "length": "12 caracteres"
+      },
+      "confirmation": {
+        "title": "Alterou a sua senha com sucesso."
+      },
+      "errors": {
+        "tokenInvalid": "Infelizmente, este link não é válido ou expirou.",
+        "failed": "Erro ao alterar a senha, tente novamente."
+      }
+    }
+  },
+  "form": {
+    "choose": "Escolher…"
+  },
+  "buyback": {
+    "registerDeviceTitle": "Registar um dispositivo",
+    "registeredDeviceTitle": "Os meus dispositivos",
+    "exchangeUnavailable": "A sua oferta tarifária não permite a renovação deste tipo de aparelho."
+  },
+  "home": {
+    "hello": "Olá {name}:",
+    "title": "Início",
+    "profileTitle": "Os meus dados",
+    "sections": {
+      "buyback": {
+        "initTitle": "Registe o primeiro dispositivo a renovar!",
+        "waitingTitle": "Em breve poderá passar para um nível superior!",
+        "waitingDescription": "Paciência... em breve poderá renovar.",
+        "waitingTimer": "O pedido de renovação estará disponível em breve",
+        "remainingDays": "Dias que faltam",
+        "swapAvailableSoon": "O pedido de renovação estará disponível em breve",
+        "swapTitle": "Passe para o próximo nível!"
+      }
+    }
+  },
+  "registerDevice": {
+    "errors": {
+      "apiFailed": "Ocorreu um erro durante o pedido. Tente novamente.",
+      "imeiError": "O IMEI deve ter entre 15 e 17 caracteres"
+    },
+    "list": {
+      "title": "Escolha o seu dispositivo",
+      "breadcrumb": "Escolha o seu dispositivo"
+    },
+    "form": {
+      "choiceBrand": "Qual é a marca do seu {device} ?",
+      "choiceModel": "Qual é o modelo do seu dispositivo?",
+      "choiceCapacity": "Qual é a capacidade de armazenamento?",
+      "choiceImei": "Qual é o IMEI?",
+      "choiceSerial": "Qual é o número de série?",
+      "preciseBrand": "Indique o modelo",
+      "preciseModel": "Indique o modelo",
+      "findImei": "Onde posso encontrar o IMEI?",
+      "addBill": "Adicione a fatura de compra"
+    },
+    "aside": {
+      "brand": "Marca",
+      "model": "Modelo",
+      "capacity": "Capacidade",
+      "imei": "IMEI",
+      "serial": "Nº série",
+      "bill": "Fatura de compra"
+    },
+    "findImei": {
+      "title": "O que é o IMEI e onde o posso encontrar?",
+      "content": "<p>O  código IMEI identifica o seu telemóvel de forma única.<br />Está formado por entre 15 e 17 dígitos, e pode ser encontrado na fatura de compra do dispositivo ou na caixa original. </p><p>existem outras formas de encontrar o IMEI :<br />Pressione<strong>*#06#</strong>no seu telemóvel, o código IMEI aparecerá no ecrã;</p><p>Entre na configuração do seu smartphone se tiver um iPhone ou um Samsung.</p><p>Também pode encontrá-lo na bateria dos modelos Android.</p>"
+    },
+    "confirm": {
+      "title": "Registo confirmado!",
+      "subtitle": "Em breve poderá renovar o seu dispositivo.",
+      "content": "Consulte a página inicial para saber quando pode solicitar o seu novo dispositivo. Entretanto, já pode registar outro dispositivo."
+    }
+  },
+  "myDevices": {
+    "modalDevice": {
+      "title": "TSeu {device}",
+      "warning": "Atenção! É obrigatório que o dispositivo que pretende renovar esteja a funcionar.",
+      "swapInProcess": "Existe já um pedido em curso para este dispositivo."
+    },
+    "modalSwap": {
+      "error": {
+        "title": "O seu pedido não foi aceite",
+        "description": "Ocorreu um erro durante o seu pedido. Por favor, tente novamente."
+      }
+    },
+    "modalConfirmation": {
+      "title": "Já está na caixa!",
+      "subtitle": "Parabéns! O seu pedido foi registado.",
+      "content": "Um consultor telefonar-lhe-á em breve para lhe explicar como deve enviar o seu dispositivo atual e as instruções sobre como obter o novo dispositivo."
+    }
+  },
+  "account": {
+    "title": "Os meus dados",
+    "assistance": {
+      "title": "Ligue para obter ajuda",
+      "content": "Atenção de segunda a sexta das 9h às 19h",
+      "phone": "475242460"
+    },
+    "activateWithSendSmsCode": "Ativar por SMS",
+    "warning": "Para solicitar a alteração ou a eliminação dos seus dados pessoais, contacte-nos por correio eletrónico ou contacte os nossos consultores."
+  }
+}

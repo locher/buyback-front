@@ -1,0 +1,141 @@
+{
+  "global": {
+    "back": "Back",
+    "formuleTitle": "Your plan:",
+    "myDevices": "My devices"
+  },
+  "actions": {
+    "validate": "Validate",
+    "connect": "Log In",
+    "iBegin": "I Begin",
+    "addDevice": "Add a device",
+    "addOtherDevice": "Add a new device",
+    "checkList": "Check the list",
+    "backHome": "Back to Home",
+    "knowMore": "Learn more",
+    "iConfirm": "I confirm"
+  },
+  "menu": {
+    "home": "Home",
+    "account": "My Information",
+    "disconnect": "Disconnect"
+  },
+  "devices": {
+    "phone": "Smartphone",
+    "tablet": "Tablet",
+    "laptop": "Laptop",
+    "drone": "Drone",
+    "tv": "Television",
+    "yourDevice": "Your {device}"
+  },
+  "login": {
+    "title": "Trade your devices to stay on top!",
+    "fields": {
+      "email": "Email",
+      "password": "Password",
+      "passwordConfirmation": "Password Confirmation"
+    },
+    "errors": {
+      "passwordNotComplex": "Enter a complex password",
+      "passwordNotTheSame": "Passwords do not match"
+    },
+    "connection": {
+      "breadcrumb": "Connection",
+      "title": "Log In",
+      "loginAction": "Log In",
+      "forgetPassword": "Forgot your password?"
+    },
+    "forgetPassword": {
+      "breadcrumb": "Forgot Password",
+      "title": "Reset Password",
+      "description": "Enter your email to receive your reset link.",
+      "forgetAction": "Receive my link",
+      "confirmation": {
+        "title": "Email sent!",
+        "descriptionTop": "A link to reset your password has been sent to the address:",
+        "descriptionBottom": "If you haven't received the email or the provided address is incorrect, ",
+        "retry": "please try again"
+      }
+    },
+    "resetPassword": {
+      "title": "Enter your new password",
+      "conditions": {
+        "letter": "a letter",
+        "number": "a number",
+        "specialChar": "a special character",
+        "length": "12 characters"
+      },
+      "confirmation": {
+        "title": "You have successfully changed your password."
+      }
+    }
+  },
+  "form": {
+    "choose": "Choose..."
+  },
+  "home": {
+    "hello": "Hello, {name}",
+    "sections": {
+      "buyback": {
+        "initTitle": "Declare your first device to trade!",
+        "waitingTitle": "Upgrade coming soon!",
+        "waitingDescription": "Patience... depending on your plan, you can trade every {delay} months.",
+        "waitingTimer": "Exchange request available soon"
+      }
+    }
+  },
+  "registerDevice": {
+    "list": {
+      "title": "Choose your device",
+      "breadcrumb": "Choose your device"
+    },
+    "form": {
+      "choiceBrand": "What is the brand of your {device}?",
+      "choiceModel": "What is the model of your device?",
+      "choiceCapacity": "What is its storage capacity?",
+      "choiceImei": "What is your IMEI number?",
+      "choiceSerial": "What is its serial number?",
+      "preciseBrand": "Specify the brand",
+      "preciseModel": "Specify the model",
+      "findImei": "Where to find the IMEI?",
+      "addBill": "Add the purchase invoice"
+    },
+    "aside": {
+      "brand": "Brand",
+      "model": "Model",
+      "capacity": "Capacity",
+      "imei": "IMEI",
+      "serial": "Serial Number",
+      "bill": "Purchase Invoice"
+    },
+    "findImei": {
+      "title": "What is the IMEI code and where to find it?",
+      "content": "<p>The IMEI code uniquely identifies your mobile phone.<br />Composed of 15 to 17 digits, this code can be found on the purchase invoice of your device or on the original packaging box.</p><p>There are other ways to find your IMEI code:<br />Dial <strong>*#06#</strong> on your phone, and your IMEI number will be displayed on the screen;</p><p>Visit the settings of your smartphone if you have an iPhone or a Samsung.</p><p>It can also be found under the battery of Android models.</p>"
+    },
+    "confirm": {
+      "title": "Registration confirmed!",
+      "subtitle": "You will soon be able to trade your device.",
+      "content": "Check the homepage to know when to request your new device. In the meantime, you can add another device right now."
+    }
+  },
+  "myDevices": {
+    "modalDevice": {
+      "title": "Your {device}",
+      "warning": "Attention! The device you want to trade must be in working condition."
+    },
+    "modalConfirmation": {
+      "title": "It's in the bag!",
+      "subtitle": "Congratulations! Your request has been successfully recorded.",
+      "content": "A teleadvisor will call you very soon. They will explain how to send your device and proceed with the trade to get your new device."
+    }
+  },
+  "account": {
+    "title": "My Information",
+    "assistance": {
+      "title": "Call Support",
+      "content": "Support is available from Monday to Friday from 9 am to 7 pm and on Saturday from 9 am to 6:30 pm",
+      "phone": "04 75 24 24 60"
+    },
+    "warning": "To request the modification or deletion of your personal data, contact us via email at solution@hubside.com or call our teleadvisors."
+  }
+}

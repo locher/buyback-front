@@ -1,0 +1,187 @@
+{
+  "errors":{
+    "notFound": "Cette ressource n'est pas disponible."
+  },
+  "global": {
+    "back": "Retour",
+    "formuleTitle": "Votre formule :",
+    "myDevices": "Mes appareils",
+    "ok": "Ok",
+    "your": "Votre"
+  },
+  "actions": {
+    "validate": "Valider",
+    "connect": "Se connecter",
+    "iBegin": "Je commence",
+    "addDevice": "Ajouter un appareil",
+    "addOtherDevice": "Ajouter un nouvel appareil",
+    "checkList": "Consulter la liste",
+    "backHome": "Retour à l'accueil",
+    "knowMore": "En savoir plus",
+    "iConfirm": "Je confirme",
+    "swap": "Faire l'échange maintenant",
+    "trade": "Échanger"
+  },
+  "menu": {
+    "home": "Accueil",
+    "account": "Mes informations",
+    "disconnect": "Déconnexion"
+  },
+  "devices": {
+    "phone": "Smartphone",
+    "tablet": "Tablette",
+    "laptop": "Ordinateur portable",
+    "drone": "Drone",
+    "tv": "Télévision",
+    "yourDevice": "Votre {device}"
+  },
+  "login": {
+    "title": "Échangez vos appareils pour être toujours au top !",
+    "lostPasswordTitle": "Réinitialiser votre mot de passe",
+    "resetPasswordTitle": "Enregistrer votre Mot de passe",
+    "accountActivateTitle": "Activer votre contrat",
+    "activateSendSms":{
+      "title": "Activation de votre contrat"
+    },
+    "fields": {
+      "email": "Email",
+      "password": "Mot de passe",
+      "passwordConfirmation": "Confirmation du mot de passe",
+      "smsCode": "Code SMS"
+    },
+    "errors": {
+      "passwordNotComplex": "Saisissez un mot de passe complexe",
+      "passwordNotTheSame": "Les mots de passe ne sont pas identiques",
+      "loginFailed": "Votre email ou votre mot de passe semble erroné",
+      "smsCode": "Le code saisi n'est pas valide",
+      "email": "L'email saisi n'est pas valide"
+    },
+    "connection": {
+      "breadcrumb": "Connexion",
+      "title": "Connectez-vous",
+      "loginAction": "Se connecter",
+      "forgetPassword": "Mot de passe oublié ?"
+    },
+    "forgetPassword": {
+      "breadcrumb": "Mot de passe oublié",
+      "title": "Réinitialiser le mot de passe",
+      "description": "Renseignez votre email pour recevoir votre lien de réinitialisation.",
+      "forgetAction": "Recevoir mon lien",
+      "confirmation": {
+        "title": "Email envoyé !",
+        "descriptionTop": " Un lien permettant de réinitialiser votre mot de passe vous a été envoyé à l’adresse:",
+        "descriptionBottom": "Si vous n’avez pas reçu l’email ou si l’adresse renseignée n’est pas correcte, ",
+        "retry": "veuillez réessayer"
+      },
+      "error": {
+        "title": "Ce n'est pas vous...",
+        "description": "La réinitialisation de votre mot de passe a rencontré un problème. Veuillez réssayer plus tard."
+      }
+    },
+    "resetPassword": {
+      "title": "Entrez votre nouveau mot de passe",
+      "conditions": {
+        "letter": "une lettre",
+        "number": "un nombre",
+        "specialChar": "un caractère spécial",
+        "length": "12 caractères"
+      },
+      "confirmation": {
+        "title": "Vous avez modifié votre mot de passe avec succès."
+      },
+      "errors": {
+        "tokenInvalid": "Désolé, ce lien n'est pas valide ou a expiré",
+        "failed": "Erreur durant le changement de mot de passe, veuillez réessayer."
+      }
+    }
+  },
+  "form": {
+    "choose": "Choisir..."
+  },
+  "buyback":{
+    "registerDeviceTitle":"Enregistrer un appareil",
+    "registeredDeviceTitle":"Mes appareils"
+  },
+  "home": {
+    "hello": "Bonjour {name}",
+    "title": "Accueil",
+    "profileTitle": "Mes informations",
+    "sections": {
+      "buyback": {
+        "initTitle": "Déclarez votre premier appareil à échanger !",
+        "waitingTitle": "Passez bientôt au niveau supérieur !",
+        "waitingDescription": "Patience...vous pourrez bientôt procéder à un échange.",
+        "waitingTimer": "Demande d'échange bientôt disponible",
+        "remainingDays": "Jours restant",
+        "swapAvailableSoon": "Demande d'échange bientôt disponible",
+        "swapTitle": "Passez au niveau supérieur !"
+      }
+    }
+  },
+  "registerDevice": {
+    "errors":{
+      "apiFailed": "Une erreur est survenue lors de votre demande. veuillez réessayer.",
+      "imeiError": "L'IMEI doit contenir entre 15 et 17 caractères"
+    },
+    "list": {
+      "title": "Choisissez votre appareil",
+      "breadcrumb": "Choisissez votre appareil"
+    },
+    "form": {
+      "choiceBrand": "Quelle est la marque de votre {device} ?",
+      "choiceModel": "Quel est le modèle de votre appareil ?",
+      "choiceCapacity": "Quelle est sa capacité de stockage ?",
+      "choiceImei": "Quel est votre numéro IMEI ?",
+      "choiceSerial": "Quel son numéro de série ?",
+      "preciseBrand": "Précisez le modèle",
+      "preciseModel": "Précisez le modèle",
+      "findImei": "Où trouver l'IMEI ?",
+      "addBill": "Ajoutez la facture d'achat"
+    },
+    "aside": {
+      "brand": "Marque",
+      "model": "Modèle",
+      "capacity": "Capacité",
+      "imei": "IMEI",
+      "serial": "N° série",
+      "bill": "Facture d'achat"
+    },
+    "findImei": {
+      "title": "Qu’est-ce que le code IMEI et où le trouver ?",
+      "content": "<p>Le code IMEI permet d’identifier votre téléphone portable de manière unique.<br />Composé de 15 à17 chiffres , ce code se trouve sur la facture d’achat de votre appareil ou sur la boîte d’emballage d’origine.</p><p>Il existe d’autres façons de trouver votre code IMEI :<br />Tapez<strong>*#06#</strong>sur votre téléphone, votre numéro IMEI s’affichera alors sur l’écran ;</p><p>Rendez-vous dans les paramètres de votre smartphone si vous possédez un iPhone ou un Samsung.</p><p>Retrouvez-le également sous la batterie des modèles Android.</p>"
+    },
+    "confirm": {
+      "title": "Enregistrement confirmé !",
+      "subtitle": "Vous pourrez bientôt échanger votre appareil.",
+      "content": "Consultez la page d’accueil pour savoir quand demander votre nouvel appareil. En attendant, vous pouvez ajouter un autre appareil dès maintenant."
+    }
+  },
+  "myDevices": {
+    "modalDevice": {
+      "title": "Votre {device}",
+      "warning": "Attention ! l’appareil que vous souhaitez échanger doit impérativement être fonctionnel.",
+      "swapInProcess": "Une demande d'échange est en cours pour cet appareil."
+    },
+    "modalSwap":{
+      "error":{
+        "title":"Votre demande n'a pas abouti",
+        "description":"Une erreur est survenue lors de votre demande. Veuillez réessayer."
+      }
+    },
+    "modalConfirmation": {
+      "title": "C’est dans la boite !",
+      "subtitle": "Félicitations ! Votre demande a bien été enregistrée.",
+      "content": "Un téléconseiller vous rappellera très vite. Il vous expliquera comment envoyer votre appareil et procéder à l’échange afin d’obtenir votre nouvel appareil."
+    }
+  },
+  "account": {
+    "title": "Mes informations",
+    "assistance": {
+      "title": "Appeler l'assistance",
+      "content": "Assistance du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h30",
+      "phone": "04 75 24 24 60"
+    },
+    "activateWithSendSmsCode": "Activer par SMS",
+    "warning": "Pour demander la modification ou la suppression de vos données personnelles, contactez-nous par email à l’adresse solution@hubside.com ou appelez nos téléconseillers. "
+  }
+}

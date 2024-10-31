@@ -1,0 +1,188 @@
+{
+  "errors": {
+    "notFound": "Questa risorsa non è disponibile"
+  },
+  "global": {
+    "back": "Indietro",
+    "formuleTitle": "La tua tariffa: ",
+    "myDevices": "I miei dispositivi",
+    "ok": "Ok",
+    "your": "Il tuo"
+  },
+  "actions": {
+    "validate": "Accettare",
+    "connect": "Effettuare il login",
+    "iBegin": "Iniziare",
+    "addDevice": "Aggiungere un dispositivo",
+    "addOtherDevice": "Aggiungere un nuovo dispositivo",
+    "checkList": "Consultare l'elenco",
+    "backHome": "Tornare all'inizio",
+    "knowMore": "Maggiori informazioni",
+    "iConfirm": "Confermare",
+    "swap": "Rinnovare ora",
+    "trade": "Rinnovare"
+  },
+  "menu": {
+    "home": "Inizio",
+    "account": "I miei dati",
+    "disconnect": "Disconnettersi"
+  },
+  "devices": {
+    "phone": "Smartphone",
+    "tablet": "Tablet",
+    "laptop": "Computer portatile",
+    "drone": "Drone",
+    "tv": "Televisione",
+    "yourDevice": "Il tuo {device}"
+  },
+  "login": {
+    "title": "Rinnova i tuoi dispositivi per essere sempre aggiornato/a!",
+    "lostPasswordTitle": "Reimpostare la password",
+    "resetPasswordTitle": "Salvare la tua password",
+    "accountActivateTitle": "Attivare il tuo contratto",
+    "activateSendSms": {
+      "title": "Attivare il tuo contratto"
+    },
+    "fields": {
+      "email": "Email",
+      "password": "Password",
+      "passwordConfirmation": "Conferma della password",
+      "smsCode": "Codice SMS"
+    },
+    "errors": {
+      "passwordNotComplex": "Inserisci una password complessa",
+      "passwordNotTheSame": "Le password non coincidono",
+      "loginFailed": "Il tuo indirizzo email o la tua password non sono valide",
+      "smsCode": "Il codice inserito non è valido",
+      "email": "L'indirizzo email inserito non è valido"
+    },
+    "connection": {
+      "breadcrumb": "Effettuare il login",
+      "title": "Effettua il login",
+      "loginAction": "Effettuare il login",
+      "forgetPassword": "Hai dimenticato la tua password?"
+    },
+    "forgetPassword": {
+      "breadcrumb": "Ho dimenticato la mia password",
+      "title": "Reimpostare la password",
+      "description": "Inserisci il tuo indirizzo email per ricevere il link di reimpostazione",
+      "forgetAction": "Ricevere il link",
+      "confirmation": {
+        "title": "Email inviata!",
+        "descriptionTop": "Ti abbiamo inviato un link per reimpostare la tua password all'indirizzo: ",
+        "descriptionBottom": "Se non hai ricevuto l'email o se l'indirizzo inserito non è corretto, prova di nuovo",
+        "retry": "Non sei tu..."
+      },
+      "error": {
+        "title": "C'è stato un problema nel reimpostare la tua password. Per favore, riprova più tardi.",
+        "description": ""
+      }
+    },
+    "resetPassword": {
+      "title": "Inserisci la nuova password",
+      "conditions": {
+        "letter": "una lettera",
+        "number": "un numero",
+        "specialChar": "un carattere speciale",
+        "length": "12 caratteri"
+      },
+      "confirmation": {
+        "title": "Hai modificato correttamente la tua password."
+      },
+      "errors": {
+        "tokenInvalid": "Ci dispiace, questo link non è valido o è scaduto.",
+        "failed": "Errore nel cambio della password, riprova."
+      }
+    }
+  },
+  "form": {
+    "choose": "Scegliere..."
+  },
+  "buyback": {
+    "registerDeviceTitle": "Registrare un dispositivo",
+    "registeredDeviceTitle": "I miei dispositivi",
+    "exchangeUnavailable": "La tua tariffa non permette il rinnovo di questo tipo di dispositivo"
+  },
+  "home": {
+    "hello": "Ciao {name}:",
+    "title": "Inizio",
+    "profileTitle": "I miei dati",
+    "sections": {
+      "buyback": {
+        "initTitle": "Registra il primo dispositivo da rinnovare!",
+        "waitingTitle": "Presto potrai fare un upgrade di livello!",
+        "waitingDescription": "Porta pazienza... Presto potrai effettuare il rinnovo",
+        "waitingTimer": "La richiesta di rinnovo sarà presto  disponibile",
+        "remainingDays": "Giorni mancanti",
+        "swapAvailableSoon": "La richiesta di rinnovo sarà presto  disponibile",
+        "swapTitle": "Fai un upgrade!"
+      }
+    }
+  },
+  "registerDevice": {
+    "errors": {
+      "apiFailed": "C'è stato un errore durante la richiesta. Per favore, riprova.",
+      "imeiError": "Il codice IMEI deve contenere da 15 a 17 cifre"
+    },
+    "list": {
+      "title": "Scegli il tuo dispositivo",
+      "breadcrumb": "Scegli il tuo dispositivo"
+    },
+    "form": {
+      "choiceBrand": "Qual è la marca del tuo {device} ?",
+      "choiceModel": "Qual è il modello del tuo dispositivo?",
+      "choiceCapacity": "Qual è la sua capacità di memoria?",
+      "choiceImei": "Qual è il codice IMEI?",
+      "choiceSerial": "Qual è il numero di serie?",
+      "preciseBrand": "Indica il modello",
+      "preciseModel": "Indica il modello",
+      "findImei": "Dov'è il codice IMEI?",
+      "addBill": "Aggiungi la fattura  d'acquisto"
+    },
+    "aside": {
+      "brand": "Marca",
+      "model": "Modello",
+      "capacity": "Capacità",
+      "imei": "Codice IMEI",
+      "serial": "Nº di serie",
+      "bill": "Fattura d'acquisto"
+    },
+    "findImei": {
+      "title": "Cos'è il codice IMEI e dove trovarlo?",
+      "content": "<p>Il codice IMEI identifica il tuo cellulare in modo unico.<br />È composto da 15 a 17 cifre, e si trova sulla fattura d'acquisto del dispositivo o nella scatola originale. </p><p>ci sono altri modi di trovare l'IMEI :<br />Premi<strong>*#06#</strong>sul tuo telefono, il codice IMEI comparirà sullo schermo ;</p><p>Entra nelle impostazioni del tuo smartphone se hai un iPhone o un Samsung.</p><p>Puoi anche trovarlo sulla batteria dei modelli Android.</p>"
+    },
+    "confirm": {
+      "title": "Registrazione confermata!",
+      "subtitle": "Presto potrai rinnovare il tuo dispositivo.",
+      "content": "Consulta la pagina iniziale per sapere quando puoi richiedere il tuo nuovo dispositivo. Nel frattempo, puoi già registrare un altro dispositivo."
+    }
+  },
+  "myDevices": {
+    "modalDevice": {
+      "title": "Il tuo {device}",
+      "warning": "Attenzione! È obbligatorio che il dispositivo che vuoi rinnovare funzioni.",
+      "swapInProcess": "C'è una richiesta in corso per questo dispositivo."
+    },
+    "modalSwap": {
+      "error": {
+        "title": "La tua richiesta non è andata a termine",
+        "description": "C'è stato un errore durante la tua richiesta. Per favore, riprova più tardi."
+      }
+    },
+    "modalConfirmation": {
+      "title": "È già nella confezione!",
+      "subtitle": "Congratulazioni! La tua richiesta è stata registrata.",
+      "content": "Un operatore ti chiamerà a breve per spiegarti come inviare il tuo dispositivo attuale e le istruzioni per ottenere quello nuovo."
+    }
+  },
+  "account": {
+    "title": "I miei dati",
+    "assistance": {
+      "title": "Chiamare il servizio clienti",
+      "content": "Servizio clienti da lunedì a venerdì, dalle 9h alle 19h",
+      "phone": "475242460"
+    },
+    "activateWithSendSmsCode": "Attivare tramite SMS",
+    "warning": "Per richiedere la rettifica o la cancellazione dei tuoi dati personali, puoi contattarci per mail o chiamare i nostri operatori telefonici."
+  }
+}

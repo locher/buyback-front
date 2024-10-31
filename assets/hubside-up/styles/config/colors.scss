@@ -1,0 +1,90 @@
+:root {
+  // Blue
+  --color-blue-50: #f8f8ff;
+  --color-blue-60: #d9e3ee;
+  --color-blue-100: #dceafe;
+  --color-purple-100: #d4e6ff;
+  --color-blue-300: #7f99e5;
+  --color-blue-700: #0034cc;
+  --color-blue-800: #1767de;
+  --color-purple-900: #1700ae;
+  --color-blue-900: #000040;
+
+  // "blue-grey"
+  --color-blue-grey-50: #ebf2f9;
+  --color-blue-grey-100: #eef3fb;
+  --color-blue-grey-300: #7082a0;
+  --color-blue-grey-900: #1b2b44;
+
+  // Neutral colors (white -> grey -> black)
+  --color-white: #fff;
+  --color-white-50: #fffffd;
+  --color-grey-50: #f8f8ff;
+  --color-grey-100: #c1cad5;
+  --color-grey-400: #c6c6c8;
+  --color-grey-600: #6e6e70;
+  --color-grey-800: #3a3a3c;
+  --color-grey-900: #2c2c2e;
+  --color-grey-950: #1c1f26;
+  --color-black-900: #1c1c1e;
+  --color-black: #000;
+
+  // Various colors (validation states, gold, external brands...)
+  --color-orange-50: #fff0ec;
+  --color-orange-400: #fa653f;
+  --color-red-50: #ffebec;
+  --color-red-400: #fd3741;
+  --color-red-460: #ff4050;
+  --color-red-grey-900: #330b0d;
+  --color-brown-900: #33160e;
+  --color-turquoise-100: #e6f6f4;
+  --color-turquoise-400: #01a88f;
+  --color-turquoise-900: #00221d;
+  --color-green-800: #107510;
+
+  // Brand
+  --color-core: var(--color-blue-900);
+  --color-blast: var(--color-blue-700);
+  --color-light: var(--color-blue-50);
+  --color-stories: var(--color-red-460);
+
+  // Typography
+  --color-text: var(--color-blue-grey-300);
+  --color-text-light: var(--color-white);
+  --color-text-disable: var(--color-blue-60);
+  --color-title: var(--color-core);
+
+  // Backgrounds
+  --color-background-block: var(--color-white);
+  --color-background: var(--color-blue-grey-100);
+  --color-background-block-span: var(--color-purple-100);
+
+  // Secondary colors
+  --color-border: var(--color-grey-100);
+  --color-separator: var(--color-blue-grey-50);
+  --color-link: var(--color-blast);
+
+  // Badges (filters, tags, states, cartouches)
+  --color-success: var(--color-turquoise-400);
+  --color-error: var(--color-red-400);
+  --color-waiting: var(--color-orange-400);
+  --color-info: var(--color-purple-100);
+  --color-success-alt: var(--color-turquoise-100);
+  --color-error-alt: var(--color-red-50);
+  --color-waiting-alt: var(--color-orange-50);
+  --color-info-alt: var(--color-grey-50);
+
+  // Buttons only
+  --color-hover: var(--color-purple-900);
+  --color-focus: var(--color-blue-300);
+  --color-inactive: var(--color-blue-60); //disabled buttons, inactive tabs...
+  --color-inactive-light: var(--color-blue-60); //same but for lighter buttons
+  --color-cancel: var(--color-blue-grey-100);
+
+  --color-btn-light: var(--color-blue-grey-100);
+  --color-btn-light-disable: var(--color-blue-60);
+  --color-btn-light-hover: var(--color-blue-100);
+
+  // Exceptions
+  --color-xbox: var(--color-green-800);
+}

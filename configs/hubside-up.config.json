@@ -1,0 +1,17 @@
+{
+  "title": "Hubside Up",
+  "description": "Hubside Up",
+  "app": "hubside-up",
+  "brand": "hubside-up",
+  "languageAvailable": {
+    "fr": "fr-fr",
+    "es": "es-es",
+    "pt": "pt-pt",
+    "befr": "fr-be",
+    "be": "nl-be",
+    "it": "it-it",
+    "cz": "cs-cz",
+    "de": "de-de"
+  },
+  "languageDefault": "fr-fr"
+}

@@ -1,0 +1,3 @@
+vars:
+  VUE_TEST: 1
+  NUXT_TEST: 1

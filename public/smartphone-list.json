@@ -1,0 +1,1310 @@
+[
+  {
+    "brand": "Apple",
+    "model": "iPhone 11",
+    "capacity": "64 Go",
+    "year": 2019
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 11",
+    "capacity": "128 Go",
+    "year": 2019
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 11",
+    "capacity": "256 Go",
+    "year": 2019
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 11 Pro Max",
+    "capacity": "64 Go",
+    "year": 2019
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 11 Pro Max",
+    "capacity": "256 Go",
+    "year": 2019
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 11 Pro Max",
+    "capacity": "512 Go",
+    "year": 2019
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 11 Pro",
+    "capacity": "64 Go",
+    "year": 2019
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 11 Pro",
+    "capacity": "256 Go",
+    "year": 2019
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 11 Pro",
+    "capacity": "512 Go",
+    "year": 2019
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone SE (2e génération)",
+    "capacity": "64 Go",
+    "year": 2020
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone SE (2e génération)",
+    "capacity": "128 Go",
+    "year": 2020
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone SE (2e génération)",
+    "capacity": "256 Go",
+    "year": 2020
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 12 mini",
+    "capacity": "64 Go",
+    "year": 2020
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 12 mini",
+    "capacity": "128 Go",
+    "year": 2020
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 12 mini",
+    "capacity": "256 Go",
+    "year": 2020
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 12",
+    "capacity": "64 Go",
+    "year": 2020
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 12",
+    "capacity": "128 Go",
+    "year": 2020
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 12",
+    "capacity": "256 Go",
+    "year": 2020
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 12 Pro",
+    "capacity": "128 Go",
+    "year": 2020
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 12 Pro",
+    "capacity": "256 Go",
+    "year": 2020
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 12 Pro",
+    "capacity": "512 Go",
+    "year": 2020
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 12 Pro Max",
+    "capacity": "128 Go",
+    "year": 2020
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 12 Pro Max",
+    "capacity": "256 Go",
+    "year": 2020
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 12 Pro Max",
+    "capacity": "512 Go",
+    "year": 2020
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 13 mini",
+    "capacity": "128 Go",
+    "year": 2021
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 13 mini",
+    "capacity": "256 Go",
+    "year": 2021
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 13 mini",
+    "capacity": "512 Go",
+    "year": 2021
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 13",
+    "capacity": "128 Go",
+    "year": 2021
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 13",
+    "capacity": "256 Go",
+    "year": 2021
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 13",
+    "capacity": "512 Go",
+    "year": 2021
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 13 Pro",
+    "capacity": "128 Go",
+    "year": 2021
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 13 Pro",
+    "capacity": "256 Go",
+    "year": 2021
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 13 Pro",
+    "capacity": "512 Go",
+    "year": 2021
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 13 Pro",
+    "capacity": "1 To",
+    "year": 2021
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 13 Pro Max",
+    "capacity": "128 Go",
+    "year": 2021
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 13 Pro Max",
+    "capacity": "256 Go",
+    "year": 2021
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 13 Pro Max",
+    "capacity": "512 Go",
+    "year": 2021
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 13 Pro Max",
+    "capacity": "1 To",
+    "year": 2021
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone SE (3e génération)",
+    "capacity": "64 Go",
+    "year": 2022
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone SE (3e génération)",
+    "capacity": "128 Go",
+    "year": 2022
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone SE (3e génération)",
+    "capacity": "256 Go",
+    "year": 2022
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 14",
+    "capacity": "128 Go",
+    "year": 2022
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 14",
+    "capacity": "256 Go",
+    "year": 2022
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 14",
+    "capacity": "512 Go",
+    "year": 2022
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 14 Plus",
+    "capacity": "128 Go",
+    "year": 2022
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 14 Plus",
+    "capacity": "256 Go",
+    "year": 2022
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 14 Plus",
+    "capacity": "512 Go",
+    "year": 2022
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 14 Pro",
+    "capacity": "128 Go",
+    "year": 2022
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 14 Pro",
+    "capacity": "256 Go",
+    "year": 2022
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 14 Pro",
+    "capacity": "512 Go",
+    "year": 2022
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 14 Pro",
+    "capacity": "1 To",
+    "year": 2022
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 14 Pro Max",
+    "capacity": "128 Go",
+    "year": 2022
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 14 Pro Max",
+    "capacity": "256 Go",
+    "year": 2022
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 14 Pro Max",
+    "capacity": "512 Go",
+    "year": 2022
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 14 Pro Max",
+    "capacity": "1 To",
+    "year": 2022
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 15",
+    "capacity": "128 Go",
+    "year": 2023
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 15",
+    "capacity": "256 Go",
+    "year": 2023
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 15",
+    "capacity": "512 Go",
+    "year": 2023
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 15 Plus",
+    "capacity": "128 Go",
+    "year": 2023
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 15 Plus",
+    "capacity": "256 Go",
+    "year": 2023
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 15 Plus",
+    "capacity": "512 Go",
+    "year": 2023
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 15 Pro",
+    "capacity": "128 Go",
+    "year": 2023
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 15 Pro",
+    "capacity": "256 Go",
+    "year": 2023
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 15 Pro",
+    "capacity": "512 Go",
+    "year": 2023
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 15 Pro",
+    "capacity": "1 To",
+    "year": 2023
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 15 Pro Max",
+    "capacity": "256 Go",
+    "year": 2023
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 15 Pro Max",
+    "capacity": "512 Go",
+    "year": 2023
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 15 Pro Max",
+    "capacity": "1 To",
+    "year": 2023
+  },
+  {
+    "brand": "Apple",
+    "model": "Autre",
+    "capacity": null,
+    "year": null
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S9",
+    "capacity": "64 Go",
+    "year": 2019
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S9",
+    "capacity": "128 Go",
+    "year": 2019
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S9",
+    "capacity": "256 Go",
+    "year": 2019
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S9 Plus",
+    "capacity": "128 Go",
+    "year": 2019
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S9 Plus",
+    "capacity": "256 Go",
+    "year": 2019
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S9 Plus",
+    "capacity": "512 Go",
+    "year": 2019
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy Note 9",
+    "capacity": "128 Go",
+    "year": 2019
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy Note 9",
+    "capacity": "512 Go",
+    "year": 2019
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S8",
+    "capacity": "64 Go",
+    "year": 2019
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S8 Plus",
+    "capacity": "64 Go",
+    "year": 2019
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy Note 8",
+    "capacity": "64 Go",
+    "year": 2019
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A03S",
+    "capacity": "32 Go",
+    "year": 2021
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A03S",
+    "capacity": "64 Go",
+    "year": 2021
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A12",
+    "capacity": "32 Go",
+    "year": 2021
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A12",
+    "capacity": "64 Go",
+    "year": 2021
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A12",
+    "capacity": "128 Go",
+    "year": 2021
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A20e",
+    "capacity": "32 Go",
+    "year": 2019
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A40",
+    "capacity": "64 Go",
+    "year": 2019
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A52S",
+    "capacity": "128 Go",
+    "year": 2021
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A52S",
+    "capacity": "256 Go",
+    "year": 2021
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A22",
+    "capacity": "128 Go",
+    "year": 2021
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A50",
+    "capacity": "64 Go",
+    "year": 2019
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A50",
+    "capacity": "128 Go",
+    "year": 2019
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S20",
+    "capacity": "128 Go",
+    "year": 2020
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S20",
+    "capacity": "256 Go",
+    "year": 2020
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S20 Plus",
+    "capacity": "128 Go",
+    "year": 2020
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S20 Plus",
+    "capacity": "256 Go",
+    "year": 2020
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S21 Plus",
+    "capacity": "128 Go",
+    "year": 2021
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S21 Plus",
+    "capacity": "256 Go",
+    "year": 2021
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S21",
+    "capacity": "128 Go",
+    "year": 2021
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S21",
+    "capacity": "256 Go",
+    "year": 2021
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy Note 20",
+    "capacity": "256 Go",
+    "year": 2020
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy Note 20 Ultra",
+    "capacity": "256 Go",
+    "year": 2020
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy Z Flip 3",
+    "capacity": "128 Go",
+    "year": 2021
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy Z Flip 3",
+    "capacity": "256 Go",
+    "year": 2021
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy Note 9",
+    "capacity": "128 Go",
+    "year": 2018
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy Note 9",
+    "capacity": "512 Go",
+    "year": 2018
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S10",
+    "capacity": "128 Go",
+    "year": 2019
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S10",
+    "capacity": "512 Go",
+    "year": 2019
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S10e",
+    "capacity": "128 Go",
+    "year": 2019
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S10e",
+    "capacity": "512 Go",
+    "year": 2019
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S10 Lite",
+    "capacity": "128 Go",
+    "year": 2020
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S10 Plus",
+    "capacity": "128 Go",
+    "year": 2019
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S10 Plus",
+    "capacity": "512 Go",
+    "year": 2019
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S10 Plus",
+    "capacity": "1 To",
+    "year": 2019
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S20 FE",
+    "capacity": "128 Go",
+    "year": 2020
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S20 FE",
+    "capacity": "256 Go",
+    "year": 2020
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S20 FE 5G",
+    "capacity": "128 Go",
+    "year": 2020
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S20 FE 5G",
+    "capacity": "256 Go",
+    "year": 2020
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S20 Ultra",
+    "capacity": "128 Go",
+    "year": 2020
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S20 Ultra",
+    "capacity": "512 Go",
+    "year": 2020
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S21 Ultra",
+    "capacity": "128 Go",
+    "year": 2021
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S21 Ultra",
+    "capacity": "256 Go",
+    "year": 2021
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy Z Flip 4",
+    "capacity": "128 Go",
+    "year": 2022
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy Z Flip 4",
+    "capacity": "256 Go",
+    "year": 2022
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy Z Fold 4",
+    "capacity": "256 Go",
+    "year": 2022
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy Z Fold 4",
+    "capacity": "512 Go",
+    "year": 2022
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S22 Ultra",
+    "capacity": "128 Go",
+    "year": 2022
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S22 Ultra",
+    "capacity": "256 Go",
+    "year": 2022
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S22 Ultra",
+    "capacity": "512 Go",
+    "year": 2022
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S22 Ultra",
+    "capacity": "1 To",
+    "year": 2022
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy Z Flip 5",
+    "capacity": "256 Go",
+    "year": 2023
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy Z Flip 5",
+    "capacity": "512 Go",
+    "year": 2023
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S23 Plus",
+    "capacity": "256 Go",
+    "year": 2023
+  },
+  {
+    "brand": "Samsung",
+    "model": "Autre",
+    "capacity": null,
+    "year": null
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Mi Note 10",
+    "capacity": "128 Go",
+    "year": 2019
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Mi Note 10",
+    "capacity": "256 Go",
+    "year": 2019
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Mi Note 10 Lite",
+    "capacity": "64 Go",
+    "year": 2020
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Mi Note 10 Lite",
+    "capacity": "128 Go",
+    "year": 2020
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Redmi 9C",
+    "capacity": "32 Go",
+    "year": 2020
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Redmi 9C",
+    "capacity": "64 Go",
+    "year": 2020
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Redmi 8",
+    "capacity": "64 Go",
+    "year": 2019
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Redmi Note 9",
+    "capacity": "32 Go",
+    "year": 2020
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Redmi Note 9",
+    "capacity": "64 Go",
+    "year": 2020
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Redmi Note 9",
+    "capacity": "128 Go",
+    "year": 2020
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "11T Pro",
+    "capacity": "128 Go",
+    "year": 2021
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "11T Pro",
+    "capacity": "256 Go",
+    "year": 2021
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Mi 11 Lite",
+    "capacity": "64 Go",
+    "year": 2021
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Mi 11 Lite",
+    "capacity": "128 Go",
+    "year": 2021
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Redmi 9",
+    "capacity": "32 Go",
+    "year": 2020
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Redmi 9",
+    "capacity": "64 Go",
+    "year": 2020
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "11T",
+    "capacity": "128 Go",
+    "year": 2021
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "11T",
+    "capacity": "256 Go",
+    "year": 2021
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Redmi 9T",
+    "capacity": "64 Go",
+    "year": 2021
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Redmi 9T",
+    "capacity": "128 Go",
+    "year": 2021
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Redmi Note 11",
+    "capacity": "64 Go",
+    "year": 2022
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Redmi Note 11",
+    "capacity": "128 Go",
+    "year": 2022
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Mi 10",
+    "capacity": "256 Go",
+    "year": 2020
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Redmi Note 9 Pro",
+    "capacity": "64 Go",
+    "year": 2020
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Redmi Note 9 Pro",
+    "capacity": "128 Go",
+    "year": 2020
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Mi 11",
+    "capacity": "128 Go",
+    "year": 2021
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Mi 11",
+    "capacity": "256 Go",
+    "year": 2021
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Redmi Note 10",
+    "capacity": "64 Go",
+    "year": 2021
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Redmi Note 10",
+    "capacity": "128 Go",
+    "year": 2021
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Xiaomi 12",
+    "capacity": "128 Go",
+    "year": 2022
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Xiaomi 12",
+    "capacity": "256 Go",
+    "year": 2022
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Xiaomi Poco X4 Pro",
+    "capacity": "128 Go",
+    "year": 2022
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Xiaomi Poco X4 Pro",
+    "capacity": "256 Go",
+    "year": 2022
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Autre",
+    "capacity": null,
+    "year": null
+  },
+  {
+    "brand": "Huawei",
+    "model": "P30",
+    "capacity": "128 Go",
+    "year": 2019
+  },
+  {
+    "brand": "Huawei",
+    "model": "P40",
+    "capacity": "128 Go",
+    "year": 2020
+  },
+  {
+    "brand": "Huawei",
+    "model": "P Smart",
+    "capacity": "64 Go",
+    "year": 2018
+  },
+  {
+    "brand": "Huawei",
+    "model": "Mate 20",
+    "capacity": "128 Go",
+    "year": 2018
+  },
+  {
+    "brand": "Huawei",
+    "model": "P40 Pro",
+    "capacity": "256 Go",
+    "year": 2020
+  },
+  {
+    "brand": "Huawei",
+    "model": "P30 Pro",
+    "capacity": "128 Go",
+    "year": 2019
+  },
+  {
+    "brand": "Huawei",
+    "model": "P30 Pro",
+    "capacity": "256 Go",
+    "year": 2019
+  },
+  {
+    "brand": "Huawei",
+    "model": "P30 Lite",
+    "capacity": "128 Go",
+    "year": 2019
+  },
+  {
+    "brand": "Huawei",
+    "model": "Autre",
+    "capacity": null,
+    "year": null
+  },
+  {
+    "brand": "Honor",
+    "model": "10 Lite ",
+    "capacity": "32 Go",
+    "year": 2019
+  },
+  {
+    "brand": "Honor",
+    "model": 10,
+    "capacity": "64 Go",
+    "year": 2018
+  },
+  {
+    "brand": "Honor",
+    "model": 10,
+    "capacity": "128 Go",
+    "year": 2018
+  },
+  {
+    "brand": "Honor",
+    "model": "Autre",
+    "capacity": null,
+    "year": null
+  },
+  {
+    "brand": "One Plus",
+    "model": 7,
+    "capacity": "128 Go",
+    "year": 2019
+  },
+  {
+    "brand": "One Plus",
+    "model": 7,
+    "capacity": "256 Go",
+    "year": 2019
+  },
+  {
+    "brand": "One Plus",
+    "model": "7 Pro",
+    "capacity": "128 Go",
+    "year": 2019
+  },
+  {
+    "brand": "One Plus",
+    "model": "7 Pro",
+    "capacity": "256 Go",
+    "year": 2019
+  },
+  {
+    "brand": "One Plus",
+    "model": "7T",
+    "capacity": "128 Go",
+    "year": 2019
+  },
+  {
+    "brand": "One Plus",
+    "model": "7T Pro",
+    "capacity": "256 Go",
+    "year": 2019
+  },
+  {
+    "brand": "One Plus",
+    "model": 8,
+    "capacity": "128 Go",
+    "year": 2020
+  },
+  {
+    "brand": "One Plus",
+    "model": 8,
+    "capacity": "256 Go",
+    "year": 2020
+  },
+  {
+    "brand": "One Plus",
+    "model": "8 Pro",
+    "capacity": "128 Go",
+    "year": 2020
+  },
+  {
+    "brand": "One Plus",
+    "model": "8 Pro",
+    "capacity": "256 Go",
+    "year": 2020
+  },
+  {
+    "brand": "One Plus",
+    "model": "8T",
+    "capacity": "128 Go",
+    "year": 2020
+  },
+  {
+    "brand": "One Plus",
+    "model": "8T",
+    "capacity": "256 Go",
+    "year": 2020
+  },
+  {
+    "brand": "One Plus",
+    "model": "Nord",
+    "capacity": "128 Go",
+    "year": 2020
+  },
+  {
+    "brand": "One Plus",
+    "model": "Nord",
+    "capacity": "256 Go",
+    "year": 2020
+  },
+  {
+    "brand": "One Plus",
+    "model": "Nord 2",
+    "capacity": "128 Go",
+    "year": 2021
+  },
+  {
+    "brand": "One Plus",
+    "model": "Nord 2",
+    "capacity": "256 Go",
+    "year": 2021
+  },
+  {
+    "brand": "One Plus",
+    "model": 9,
+    "capacity": "128 Go",
+    "year": 2021
+  },
+  {
+    "brand": "One Plus",
+    "model": 9,
+    "capacity": "256 Go",
+    "year": 2021
+  },
+  {
+    "brand": "One Plus",
+    "model": "9 Pro",
+    "capacity": "128 Go",
+    "year": 2021
+  },
+  {
+    "brand": "One Plus",
+    "model": "9 Pro",
+    "capacity": "256 Go",
+    "year": 2021
+  },
+  {
+    "brand": "One Plus",
+    "model": "10 Pro",
+    "capacity": "128 Go",
+    "year": 2022
+  },
+  {
+    "brand": "One Plus",
+    "model": "10 Pro",
+    "capacity": "256 Go",
+    "year": 2022
+  },
+  {
+    "brand": "One Plus",
+    "model": "Autre",
+    "capacity": null,
+    "year": null
+  },
+  {
+    "brand": "Oppo",
+    "model": "A91",
+    "capacity": "128 Go",
+    "year": 2019
+  },
+  {
+    "brand": "Oppo",
+    "model": "A94 ",
+    "capacity": "128 Go",
+    "year": 2021
+  },
+  {
+    "brand": "Oppo",
+    "model": "A54",
+    "capacity": "64 Go",
+    "year": 2021
+  },
+  {
+    "brand": "Oppo",
+    "model": "A16",
+    "capacity": "64 Go",
+    "year": 2021
+  },
+  {
+    "brand": "Oppo",
+    "model": "Find X3 Lite",
+    "capacity": "128 Go",
+    "year": 2021
+  },
+  {
+    "brand": "Oppo",
+    "model": "A54s",
+    "capacity": "128 Go",
+    "year": 2021
+  },
+  {
+    "brand": "Oppo",
+    "model": "A53",
+    "capacity": "128 Go",
+    "year": 2022
+  },
+  {
+    "brand": "Oppo",
+    "model": "Reno 6",
+    "capacity": "128 Go",
+    "year": 2021
+  },
+  {
+    "brand": "Oppo",
+    "model": "Find X5 Lite",
+    "capacity": "256 Go",
+    "year": 2022
+  },
+  {
+    "brand": "Oppo",
+    "model": "Autre",
+    "capacity": null,
+    "year": null
+  },
+  {
+    "brand": "Realme",
+    "model": "C35",
+    "capacity": "64 Go",
+    "year": 2022
+  },
+  {
+    "brand": "Realme",
+    "model": "C35",
+    "capacity": "128 Go",
+    "year": 2022
+  },
+  {
+    "brand": "Realme",
+    "model": "Autre",
+    "capacity": null,
+    "year": null
+  },
+  {
+    "brand": "Autre",
+    "model": null,
+    "capacity": null,
+    "year": null
+  }
+]
